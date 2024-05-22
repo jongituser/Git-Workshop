@@ -1,1 +1,1 @@
-file1 has now been updated
+"This is the content for file1. and added with new message" 
